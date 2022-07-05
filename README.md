@@ -6,5 +6,3 @@ Zum Konfigurieren müssen in der Datei Werte folgende Werte eingetragen werden:
   Zone-ID von Cloudflare
   User-Token von Cloudflare
   Server der die (neue) IP-Adresse ausgibt
-
-  
