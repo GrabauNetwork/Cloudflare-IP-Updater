@@ -5,4 +5,6 @@ Zum Konfigurieren müssen in der Datei Werte folgende Werte eingetragen werden:
 -  Name des Records (abc.de)
 -  Zone-ID von Cloudflare
 -  User-Token von Cloudflare
--  Server der die (neue) IP-Adresse ausgibt
+-  Server der die (neue) IP-Adresse 
+
+- Das Script ist nutzbar für A (IPv4) und AAAA (IPv6) Records
